@@ -1,0 +1,28 @@
+
+
+
+            dddddddd
+            d::::::d                                                JJJJJJJJJJJ                                  iiii
+            d::::::d                                                J:::::::::J                                 i::::i
+            d::::::d                                                J:::::::::J                                  iiii
+            d:::::d                                                 JJ:::::::JJ
+    ddddddddd:::::d     eeeeeeeeeeee  vvvvvvv           vvvvvvv       J:::::Juuuuuu    uuuuuunnnn  nnnnnnnn    iiiiiii    ooooooooooo   rrrrr   rrrrrrrrr
+  dd::::::::::::::d   ee::::::::::::ee v:::::v         v:::::v        J:::::Ju::::u    u::::un:::nn::::::::nn  i:::::i  oo:::::::::::oo r::::rrr:::::::::r
+ d::::::::::::::::d  e::::::eeeee:::::eev:::::v       v:::::v         J:::::Ju::::u    u::::un::::::::::::::nn  i::::i o:::::::::::::::or:::::::::::::::::r
+d:::::::ddddd:::::d e::::::e     e:::::e v:::::v     v:::::v          J:::::ju::::u    u::::unn:::::::::::::::n i::::i o:::::ooooo:::::orr::::::rrrrr::::::r
+d::::::d    d:::::d e:::::::eeeee::::::e  v:::::v   v:::::v           J:::::Ju::::u    u::::u  n:::::nnnn:::::n i::::i o::::o     o::::o r:::::r     r:::::r
+d:::::d     d:::::d e:::::::::::::::::e    v:::::v v:::::vJJJJJJJ     J:::::Ju::::u    u::::u  n::::n    n::::n i::::i o::::o     o::::o r:::::r     rrrrrrr
+d:::::d     d:::::d e::::::eeeeeeeeeee      v:::::v:::::v J:::::J     J:::::Ju::::u    u::::u  n::::n    n::::n i::::i o::::o     o::::o r:::::r
+d:::::d     d:::::d e:::::::e                v:::::::::v  J::::::J   J::::::Ju:::::uuuu:::::u  n::::n    n::::n i::::i o::::o     o::::o r:::::r
+d::::::ddddd::::::dde::::::::e                v:::::::v   J:::::::JJJ:::::::Ju:::::::::::::::uun::::n    n::::ni::::::io:::::ooooo:::::o r:::::r
+ d:::::::::::::::::d e::::::::eeeeeeee         v:::::v     JJ:::::::::::::JJ  u:::::::::::::::un::::n    n::::ni::::::io:::::::::::::::o r:::::r
+  d:::::::::ddd::::d  ee:::::::::::::e          v:::v        JJ:::::::::JJ     uu::::::::uu:::un::::n    n::::ni::::::i oo:::::::::::oo  r:::::r
+   ddddddddd   ddddd    eeeeeeeeeeeeee           vvv           JJJJJJJJJ         uuuuuuuu  uuuunnnnnn    nnnnnniiiiiiii   ooooooooooo    rrrrrrr
+
+                RAMDE Juldas                                        Spring Boot v3.2.5
+
+
+
+
+
+

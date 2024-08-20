@@ -1,0 +1,25 @@
+# data source connection
+spring:
+  datasource:
+    url: jdbc:postgresql://localhost:5432/springboot_demo
+
+    # db username and password configuration
+    username: postgres
+    password: postgres@admin
+
+    # driver-class name configuration
+    driver-class-name: org.postgresql.Driver
+
+  # hibernate jpa configuration
+  # JPA queries configuration
+  jpa:
+    hibernate:
+      ddl-auto: update
+    show-sql: true
+
+  # database system management configuration
+    properties:
+      hibernate:
+        format_sql: true
+    database: postgresql
+    database-platform: org.hibernate.dialect.PostgreSQLDialect
